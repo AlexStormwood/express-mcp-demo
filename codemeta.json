@@ -1,0 +1,43 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "type": "software",
+    "author": [
+        {
+            "id": "https://orcid.org/0009-0008-2183-7041",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "BigfootDS"
+            },
+            "email": "alex@bigfootds.com",
+            "familyName": "Stormwood",
+            "givenName": "Alex"
+        }
+    ],
+    "codeRepository": "https://github.com/AlexStormwood/express-mcp-demo",
+	"url":"https://github.com/AlexStormwood/express-mcp-demo",
+    "dateCreated": "2023-03-22",
+    "dateModified": "2025-01-27",
+    "datePublished": "2023-05-17",
+    "description": "Demo of how an ExpressJS server can also function as a Model-Context Protocol server for usage by large-language models, for integration into LLM clients.",
+    "abstract": "Demo of how an ExpressJS server can also function as a Model-Context Protocol server for usage by large-language models, for integration into LLM clients.",
+    "downloadUrl": "https://alexstormwood.com/",
+    "keywords": [
+        "LLM",
+        "chatgpt",
+        "MCP",
+		"expressjs",
+		"nodejs"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Alex Stormwood's ExpressJS MCP Demo Project",
+    "programmingLanguage": "JavaScript",
+    "runtimePlatform": "NodeJS",
+    "version": "1.0.0",
+    "contIntegration": "https://github.com/AlexStormwood/express-mcp-demo/actions",
+    "codemeta:continuousIntegration": {
+        "id": "https://github.com/AlexStormwood/express-mcp-demo/actions"
+    },
+    "developmentStatus": "active",
+    "issueTracker": "https://github.com/AlexStormwood/express-mcp-demo/issues"
+}

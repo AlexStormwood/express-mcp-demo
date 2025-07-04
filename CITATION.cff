@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Alex Stormwood's ExpressJS MCP Demo Project
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Alex
+    family-names: Stormwood
+    email: alex@bigfootds.com
+    affiliation: BigfootDS
+    orcid: 'https://orcid.org/0009-0008-2183-7041'
+repository-code: 'https://github.com/AlexStormwood/express-mcp-demo'
+url: 'https://github.com/AlexStormwood'
+abstract: Demo of how an ExpressJS server can also function as a Model-Context Protocol server for usage by large-language models, for integration into LLM clients.
+keywords:
+  - LLM
+  - chatgpt
+  - MCP
+  - expressjs
+  - nodejs
+license: MIT
+version: 1.0.0
+date-released: '2025-01-27'

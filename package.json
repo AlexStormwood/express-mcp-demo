@@ -1,0 +1,25 @@
+{
+  "name": "@alexstormwood/express-mcp-demo",
+  "version": "1.0.0",
+  "description": "Demo of how an ExpressJS server can be used as a LLM MCP server.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexStormwood/express-mcp-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlexStormwood/express-mcp-demo/issues"
+  },
+  "homepage": "https://github.com/AlexStormwood/express-mcp-demo#readme",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}

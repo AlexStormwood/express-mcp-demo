@@ -2,7 +2,10 @@
   "name": "@alexstormwood/express-mcp-demo",
   "version": "1.0.0",
   "description": "Demo of how an ExpressJS server can be used as a LLM MCP server.",
-  "main": "src/server/index.js",
+  "main": "src/mcp-server/index.js",
+  "bin": {
+    "express-mcp-demo":"./src/mcp-server/index.js"
+  },
   "scripts": {
     "start": "npm run start:api",
     "start:api": "node src/web-api-server/index.js",

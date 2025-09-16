@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"express-mcp-demo": {
+			"type": "stdio",
+			"command": "npm",
+			"args": [
+				"run",
+				"start:mcp"
+			]
+		}
+	},
+	"inputs": []
+}

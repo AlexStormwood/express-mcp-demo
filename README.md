@@ -32,7 +32,7 @@ Actual runs of the workshop will vary, leading to varying code outcomes - so don
 
 The presentation slides used in the workshop are available in the `./documentation` folder. Specifically, here:
 
-- [`./documentation/slides/2025-09-18-acs.pdf]
+- [`./documentation/slides/2025-09-18-acs.pdf`](./documentation/slides/2025-09-18-acs.pdf)
 
 ## Further Resources
 

@@ -6,6 +6,8 @@ This repository is a central resource for this event for the Australian Computer
 
 - https://www.acs.org.au/cpd-education/event-detail.html?eventId=701Om00000Pip5F
 
+This repository, slides, and and other content found within this repository were made for the Academy of Interactive Technology (AIT) trading as Coder Academy, delivered as an event facilitated by the Australian Computer Society (ACS).
+
 ## About the Workshop
 
 Large language models (LLMs) are becoming more-advanced, able to retrieve data from external sources and allow users to perform complex actions with natural language. The Model Context Protocol (MCP) is the next step up from that: it’s a protocol that allows a LLM to interact with other software, such as your API or web server. This has huge potential for any business that provides software as a service - imagine how easy it could be for users to use your software if they can do it from the comfort of their LLM client!
@@ -60,3 +62,9 @@ The workshop references a whole heap of third-party resources, such as articles,
 - [Docker Hub's MCP Hub](https://hub.docker.com/mcp)
 - [mcp-containers](https://github.com/metorial/mcp-containers)
 - [PayPal MCP Server Quickstart](https://www.paypal.ai/docs/tools/mcp-quickstart)
+
+## Contact
+
+Feel free to contact [Alex Stormwood](https://github.com/AlexStormwood) for any questions about this workshop and its resources.
+
+We do corporate training! Please reach out to Alex through one of the methods linked on his GitHub profile to discuss any bespoke, customised training for your team.

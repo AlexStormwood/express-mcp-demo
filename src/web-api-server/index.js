@@ -37,6 +37,9 @@ app.get("/health", (request, response) => {
 	});
 });
 
+const pokemonFetcherRouter = require("./controllers/pokemonFetcher");
+app.use("/pokemon", pokemonFetcherRouter);
+
 
 // Activate the server and start receiving web traffic
 app.listen(PORT, () => {

@@ -22,3 +22,5 @@ router.post("/id", async (request, response) => {
 		name: result.name
 	});
 });
+
+module.exports = router;
